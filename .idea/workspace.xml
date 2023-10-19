@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09309ff9-06d4-465b-9a4c-0de39139978b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AzeezClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IncreamentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelationalDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +46,7 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IncreamentDemo">
-    <configuration name="Addition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Addition" />
-      <module name="Ingryd" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RelationalDemo">
     <configuration name="AzeezClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AzeezClass" />
       <module name="Ingryd" />
@@ -77,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RelationalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelationalDemo" />
+      <module name="Ingryd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumCalculation" />
       <module name="Ingryd" />
@@ -86,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RelationalDemo" />
         <item itemvalue="Application.IncreamentDemo" />
         <item itemvalue="Application.SumCalculation" />
         <item itemvalue="Application.AzeezClass" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.Addition" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +102,7 @@
       <updated>1697538103581</updated>
       <workItem from="1697538106178" duration="7793000" />
       <workItem from="1697618981166" duration="3006000" />
-      <workItem from="1697707030627" duration="3632000" />
+      <workItem from="1697707030627" duration="4916000" />
     </task>
     <servers />
   </component>
